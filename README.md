@@ -7,8 +7,8 @@
   📍 Based in Girona, Spain <br>
   🌱 Currently attending a Full-Stack Bootcamp <br>
   💬 Ask me about React, Firebase, Tailwind, and building real projects <br>
-  ✉️ You can reach me at <a target="_blank" href="mailto:ivan.bodnarash.dev@gmail.com">ivan.bodnarash.dev@gmail.com</a> <br>  
-  📄 Check out my <a target="_blank" href="https://ivanbodnarash.vercel.app/static/Ivan_Bodnarash_CV.pdf">CV</a> for more info. I welcome feedback!
+  ✉️ You can reach me at <a href="mailto:ivan.bodnarash.dev@gmail.com">ivan.bodnarash.dev@gmail.com</a> <br>  
+  📄 Check out my <a href="https://ivanbodnarash.vercel.app/static/Ivan_Bodnarash_CV.pdf">CV</a> for more info. I welcome feedback!
 </p>
 
 ## 🛠️ Tech Stack
@@ -39,9 +39,9 @@
 ## ➕ Connect with me
 
 <p align="center">
-<a target="_blank" href="https://ivanbodnarash.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/ivan-bodnarash"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a target="_blank" href="mailto:ivan.bodnarash.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/ivn.bdnr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/ivn.bdnr/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://ivanbodnarash.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ivan-bodnarash"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:ivan.bodnarash.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ivn.bdnr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/ivn.bdnr/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
