@@ -21,7 +21,7 @@
 
 ## 📌 Highlighted Projects
 
-- **[Recipe Compass](https://the-recipe-compass.web.app/)**  
+- **[QueTocaHoy](https://que-toca-hoy.vercel.app/)**  
   A full stack web app that helps families and groups stay organized with daily tasks, recipes, and shopping lists.
 
 - **[Recipe Compass](https://the-recipe-compass.web.app/)**  
