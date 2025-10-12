@@ -22,6 +22,9 @@
 ## 📌 Highlighted Projects
 
 - **[Recipe Compass](https://the-recipe-compass.web.app/)**  
+  A full stack web app that helps families and groups stay organized with daily tasks, recipes, and shopping lists.
+
+- **[Recipe Compass](https://the-recipe-compass.web.app/)**  
   Recipe manager with Firebase, CRUD functionality, and Unsplash API.
 
 - **[Building Price Estimator](https://building-estimator-rho.vercel.app/)**  
