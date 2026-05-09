@@ -3,23 +3,34 @@
 ## 👾 About Me
 
 <p>
-  🚀 Self-taught Frontend Developer <br>
-  📍 Based in Girona, Spain <br>
-  🌱 Currently attending a Full-Stack Bootcamp <br>
-  💬 Ask me about React, Firebase, Tailwind, and building real projects <br>
+  🚀 Frontend Developer with professional experience in React and TypeScript <br>
+  📍 Based in Spain <br>
+  💼 Worked on production features, dashboard interfaces, and design system components <br>
+  🛠️ Main stack: React, TypeScript, Next.js, JavaScript, Tailwind CSS, MUI, Firebase, Node.js <br>
+  🤝 Experienced in collaborating with QA, backend, product, and design teams <br>
   ✉️ You can reach me at <a href="mailto:ivan.bodnarash.dev@gmail.com">ivan.bodnarash.dev@gmail.com</a> <br>  
   📄 Check out my <a href="https://ivanbodnarash.vercel.app/static/Ivan_Bodnarash_CV.pdf">CV</a> for more info. I welcome feedback!
 </p>
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,redux,tailwind,html,css,firebase,git,github,npm,vscode,figma,photoshop)](https://skillicons.dev)
-
-## 📜 Studying
-
-[![Learning](https://skillicons.dev/icons?i=typescript,nodejs,mongo,express,postgres,mysql,azure,flutter)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwindcss,html,css,bootstrap,firebase,github,git,gitlab,bitbucket,npm,vscode,figma,photoshop,flutter,python,azure,nodejs,expressjs,sequelize,mysql&theme=dark&perline=12)
 
 ## 📌 Highlighted Projects
+
+- **[CompactifAI Dashboard](https://dashboard.compactif.ai/)**  
+  Customer-facing dashboard developed as part of an international engineering team at Multiverse Computing. Contributed to frontend features, dashboard interfaces, billing and usage-related UI, design system components, bug fixing, testing, and code reviews.
+
+- **[Biyo POS](https://biyopos.com/)**  
+  Commercial website for a POS platform focused on restaurants, retail, online ordering, inventory, reporting, and business operations. Worked on frontend implementation and production-ready UI sections.
+
+- **[P.Slate](https://www.pslate.app/en)**  
+  Frontend scheduling planner for university students with course search, section selection, conflict-free schedule generation, weekly timetable view, tuition calculation, and bilingual English/Arabic support.
+
+- **[QueTocaHoy](https://que-toca-hoy.vercel.app/)**  
+  Collaborative full-stack app for families and groups to manage daily tasks, recipes, and shopping lists. Built with React, Node.js, Express, PostgreSQL, Sequelize, Socket.IO, JWT, Vercel, and Render.
+
+## 🧪 Other Projects
 
 - **[Recipe Compass](https://the-recipe-compass.web.app/)**  
   Recipe manager with Firebase, CRUD functionality, and Unsplash API.
@@ -29,12 +40,6 @@
 
 - **[Buidl & Borrow](https://buidl-n-borrow-dapp.vercel.app/)**  
   Decentralized lending dApp using Radix and Scrypto.
-
-## ⚙️ GitHub Analytics
-
-![Ivan Bodnarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanBodnarash&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBodnarash&layout=donut-vertical&theme=transparent)](https://github.com/IvanBodnarash/github-readme-stats)
 
 ## ➕ Connect with me
 
